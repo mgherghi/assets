@@ -41,7 +41,7 @@ services:
       - name: "Apache Guacamole"
         icon: "fas fa-layer-group"
         subtitle: "Student Login Portal"
-        url: "guacamole.calpolynglab.com" 
+        url: "http://guacamole.calpolynglab.com" 
 
   - name: "How-To"
     icon: "fas fa-th-large"
