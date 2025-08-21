@@ -5,9 +5,9 @@ subtitle: "Homer"
 logo: "calpolyShield.png" # optional — drop a file at homer/assets/logo.png or remove this line
 
 # Optional message at top of the page
-message:
-  style: "is-info"
-  title: "Welcome to the CalPoly NGLab Home Page"
+# message:
+#   style: "is-info"
+#   title: "Welcome to the CalPoly NGLab Home Page"
 #  content: "Choose a panel below (P1–P4)."
 
 # Navbar links (optional). Keep empty to hide links while still allowing theme & search.
