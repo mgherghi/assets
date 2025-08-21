@@ -41,7 +41,7 @@ services:
       - name: "How to use Guacamole"
         icon: "fas fa-layer-group"
         subtitle: "Guacamole help"
-        url: "https://photos.app.goo.gl/KF6WXWT5W4uDfX3H9"  # loads assets/p1.yml
+        url: "https://photos.google.com/share/AF1QipPW-qChF4tjT_LApO_17Ct2CP0ctVGFjSZOZ9Z1WB1QKgw5zS6hNLC_jWLTWZjhgA/photo/AF1QipPwoODukdBf2a2Dly5krlQiwpihgUiG6l3MJxDx?key=T3BDVHdZVUU4NHl6Q1NZcVVwMmVIckt2LTlNVHF3"  # loads assets/p1.yml
 
       - name: "How to use seperate RDP"
         icon: "fas fa-layer-group"
