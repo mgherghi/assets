@@ -25,6 +25,6 @@ services:
   - name: "About Professor"
     icon: "fas fa-link"
     items:
-      - name: "About Dr. DeBruhl"
+      - name: "About Dr. Phoenix Fang"
         icon: "fas fa-external-link-alt"
-        url: "https://users.csc.calpoly.edu/~bdebruhl/index.html"
+        url: "https://users.csc.calpoly.edu/~dofang/index.html"
