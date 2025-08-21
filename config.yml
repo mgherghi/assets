@@ -35,6 +35,14 @@ services:
         subtitle: "Research Projects"
         url: "#p4"  # loads assets/p4.yml
 
+  - name: "Tools"
+    icon: "fas fa-th-large"
+    items:
+      - name: "Apache Guacamole"
+        icon: "fas fa-layer-group"
+        subtitle: "Student Login Portal"
+        url: "guacamole.calpolynglab.com" 
+
   - name: "How-To"
     icon: "fas fa-th-large"
     items:
