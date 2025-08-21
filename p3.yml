@@ -22,3 +22,9 @@ services:
       #   icon: "fas fa-external-link-alt"
       #   subtitle: "Example 4"
       #   url: "https://example.org/4"
+  - name: "About Professor"
+    icon: "fas fa-link"
+    items:
+      - name: "About Dr. DeBruhl"
+        icon: "fas fa-external-link-alt"
+        url: "https://users.csc.calpoly.edu/~bdebruhl/index.html"
