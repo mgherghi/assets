@@ -2,7 +2,7 @@
 # Minimal header theming; adjust as you like
 title: "Main"
 subtitle: "Homer"
-logo: "calpolyShield.png" # optional — drop a file at homer/assets/logo.png or remove this line
+logo: "logo.png" # optional — drop a file at homer/assets/logo.png or remove this line
 
 # Optional message at top of the page
 # message:
