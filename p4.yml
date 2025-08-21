@@ -3,7 +3,7 @@ title: "Research Labs"
 subtitle: "Research Lab Links"
 
 services:
-  - name: "Bruce DeBruhl Projects"
+  - name: "Dr. Bruce DeBruhl Projects"
     icon: "fas fa-link"
     items:
       - name: "llvm"
