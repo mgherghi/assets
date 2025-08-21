@@ -1,0 +1,49 @@
+---
+# Minimal header theming; adjust as you like
+title: "Main"
+subtitle: "Homer"
+logo: "logo.png" # optional — drop a file at homer/assets/logo.png or remove this line
+
+# Optional message at top of the page
+message:
+  style: "is-info"
+  title: "Welcome to the CalPoly NGLab Home Page"
+#  content: "Choose a panel below (P1–P4)."
+
+# Navbar links (optional). Keep empty to hide links while still allowing theme & search.
+links: []
+
+# The 4 tiles
+services:
+  - name: "Professors"
+    icon: "fas fa-th-large"
+    items:
+      - name: "Brett Hartma"
+        icon: "fas fa-layer-group"
+        subtitle: "Brett Hartma's students"
+        url: "#p1"  # loads assets/p1.yml
+      - name: "Bruce DeBruhl"
+        icon: "fas fa-layer-group"
+        subtitle: "Bruce DeBruhl's students"
+        url: "#p2"  # loads assets/p2.yml
+      - name: "Phoenix Fang"
+        icon: "fas fa-layer-group"
+        subtitle: "Phoenix Fang's students"
+        url: "#p3"  # loads assets/p3.yml
+      - name: "Research Labs"
+        icon: "fas fa-layer-group"
+        subtitle: "Research Projects"
+        url: "#p4"  # loads assets/p4.yml
+
+  - name: "How-To"
+    icon: "fas fa-th-large"
+    items:
+      - name: "How to use Guacamole"
+        icon: "fas fa-layer-group"
+        subtitle: "Guacamole help"
+        url: "#p1"  # loads assets/p1.yml
+
+      - name: "How to use seperate RDP"
+        icon: "fas fa-layer-group"
+        subtitle: "How to use RDP if you dont want guacamole"
+        url: "#p1"  # loads assets/p1.yml

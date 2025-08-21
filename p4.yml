@@ -1,0 +1,24 @@
+---
+title: "Research Labs"
+subtitle: "Research Lab Links"
+
+services:
+  - name: "Login Links"
+    icon: "fas fa-link"
+    items:
+      - name: "link1"
+        icon: "fas fa-external-link-alt"
+        subtitle: "Example 1"
+        url: "https://docs.example.net/alpha"
+#      - name: "link2"
+#        icon: "fas fa-external-link-alt"
+#        subtitle: "Example 2"
+#        url: "https://docs.example.net/bravo"
+#      - name: "link3"
+#        icon: "fas fa-external-link-alt"
+#        subtitle: "Example 3"
+#        url: "https://docs.example.net/charlie"
+#      - name: "link4"
+#        icon: "fas fa-external-link-alt"
+#        subtitle: "Example 4"
+#        url: "https://docs.example.net/delta"

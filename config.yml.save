@@ -1,0 +1,36 @@
+---
+# Minimal header theming; adjust as you like
+title: "Students"
+subtitle: ""
+logo: "logo.png" # optional — drop a file at homer/assets/logo.png or remove this line
+
+# Optional message at top of the page
+message:
+  style: "is-info"
+  title: "Welcome"
+  content: "Welcome to the Calpoly Lab"
+
+# Navbar links (optional). Keep empty tStudeno hide links while still allowing theme & search.
+links: []
+
+# The 4 tiles
+services:
+  - name: "Panels"
+    icon: "fas fa-th-large"
+    items:
+      - name: "P1"
+        icon: "fas fa-layer-group"
+        subtitle: "Panel 1"
+        url: "#p1"  # loads assets/p1.yml
+      - name: "P2"
+        icon: "fas fa-layer-group"
+        subtitle: "Panel 2"
+        url: "#p2"  # loads assets/p2.yml
+      - name: "P3"
+        icon: "fas fa-layer-group"
+        subtitle: "Panel 3"
+        url: "#p3"  # loads assets/p3.yml
+      - name: "P4"
+        icon: "fas fa-layer-group"
+        subtitle: "Panel 4"
+        url: "#p4"  # loads assets/p4.yml

@@ -1,0 +1,24 @@
+---
+title: "Dr. Bruce DeBruhl"
+subtitle: "Class Related Links"
+
+services:
+  - name: "Class Links"
+    icon: "fas fa-link"
+    items:
+      - name: "link1"
+        icon: "fas fa-external-link-alt"
+        subtitle: "Example 1"
+        url: "https://example.com/a"
+      - name: "link2"
+        icon: "fas fa-external-link-alt"
+        subtitle: "Example 2"
+        url: "https://example.com/b"
+      - name: "link3"
+        icon: "fas fa-external-link-alt"
+        subtitle: "Example 3"
+        url: "https://example.com/c"
+      - name: "link4"
+        icon: "fas fa-external-link-alt"
+        subtitle: "Example 4"
+        url: "https://example.com/d"
