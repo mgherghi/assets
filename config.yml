@@ -46,4 +46,4 @@ services:
       - name: "How to use seperate RDP"
         icon: "fas fa-layer-group"
         subtitle: "How to use RDP if you dont want guacamole"
-        url: "https://photos.google.com/share/AF1QipMp8IMn2s-pBmCtx6iS71Q1LlHzr9gNK5tH_RKGl_5zP9DwgQCoxQar7JaU8lQsUQ/photo/AF1QipOv3PsasaZDXYo2sKKh9qNqbXp9iFfNPD6PhJ8h?key=MkZXQW5NdWRJUEVnNlYtenB3UV9Ud2ExNEF0WHln"  # loads assets/p1.yml
+        url: "https://photos.google.com/share/AF1QipPYE8wRYjILXN_JWUUZE_k9qdyXa3LvcdPg1dRA_TOCiBxRij34jiCuVmRkEepeVQ/photo/AF1QipMqjwLk90UkbBZrhx3yc8TI7QEPMIzgkzFWqX-I?key=ZHRFN25rcHN0M0hRNWIwOFl1SUVyUmhuc2V5aVRB"
