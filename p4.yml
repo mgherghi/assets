@@ -13,10 +13,10 @@ services:
   - name: "Dr. Phoenix Fang Projects"
     icon: "fas fa-link"
     items:
-      - name: "llvm"
+      - name: "SURP"
         icon: "fas fa-external-link-alt"
-        subtitle: "Example 1"
-        url: "https://docs.example.net/alpha"
+        # subtitle: "Example 1"
+        url: "http://surp-guacamole.calpolynglab.com"
   - name: "Brett Hartman Projects"
     icon: "fas fa-link"
     items:
